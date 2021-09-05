@@ -3,7 +3,7 @@
 }
 
 .ha-header-front a {
-  color: #292929;
+  color: #b34947;
 }
 
 .ha-header-perspective .ha-header-bottom {
@@ -23,7 +23,7 @@ h4,
 .page-section p,
 #work h3,
 .team h2 {
-  color: #292929;
+  color: #b34947;
 }
 
 .page-section h2::after {
@@ -31,19 +31,19 @@ h4,
 }
 
 .btn-border {
-  color: #292929;
-  -webkit-box-shadow: 0 0 0 2px #292929;
-  box-shadow: 0 0 0 2px #292929;
+  color: #b34947;
+  -webkit-box-shadow: 0 0 0 2px #b34947;
+  box-shadow: 0 0 0 2px #b34947;
 }
 
 .btn-border:hover {
-  background-color: #292929;
+  background-color: #b34947;
   color: #fff;
 }
 
 .page-section header h2,
 .page-section header p {
-  color: #292929;
+  color: #b34947;
 }
 
 main {
@@ -52,20 +52,20 @@ main {
 }
 
 ul.social a {
-  background-color: #292929;
+  background-color: #b34947;
   color: #fff;
 }
 
 .pricing-table {
-  border: 2px solid #292929;
+  border: 2px solid #b34947;
 }
 
 .skill-bar {
-  border-color: #292929;
+  border-color: #b34947;
 }
 
 .skill {
-  background-color: #292929;
+  background-color: #b34947;
   color: #fff;
 }
 
